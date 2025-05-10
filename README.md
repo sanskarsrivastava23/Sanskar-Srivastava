@@ -74,13 +74,3 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <!-- Add more tools like Docker or GitHub Actions if needed -->
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskar23&show_icons=true&locale=en&theme=tokyonight" alt="sanskar23" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskar23&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
